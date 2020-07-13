@@ -1,5 +1,5 @@
 // Steuerungssoftware zur Nachführung des Josef-Mosbach-Refraktors der Sternwarte Überlingen
-// BW / 20.3.2018 V 1.01
+// BW / 28.6.2020 V 1.02
 
 #include <LiquidCrystal.h>               // Anzeigenbibliothek einbinden
 //#include "DHT.h" //DHT Bibliothek laden  // Temperatur-/Feuchtigkeitssensor-Bibliothek einbinden
